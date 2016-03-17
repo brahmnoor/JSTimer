@@ -1,4 +1,6 @@
-/* Main.js */
+/* 
+Author - Brahmnoor Singh
+*/
 
 var visitTime = new Date();
 
